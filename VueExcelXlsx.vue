@@ -5,7 +5,7 @@
 </template>
 
 <script>
-    import XLSX from 'xlsx/xlsx';
+    import * as XLSX from 'xlsx/xlsx';
 
     export default {
         name: "vue-excel-xlsx",
